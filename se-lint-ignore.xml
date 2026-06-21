@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="prologue.xhtml">
+		<ignore code="t-030">
+			<line>57</line>
+			<line>61</line>
+			<line>65</line>
+			<reason>General Electric renders their name as "GE" without periods in their marketing.</reason>
+		</ignore>
+		<ignore code="t-032">
+			<line>57</line>
+			<line>65</line>
+			<reason>Because this initialism has no periods, the clause-ending period goes outside of the abbr tag.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
