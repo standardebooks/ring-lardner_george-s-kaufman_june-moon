@@ -103,10 +103,10 @@
 		<itemref idref="foreword.xhtml"/>
 		<itemref idref="dramatis-personae.xhtml"/>
 		<itemref idref="halftitlepage.xhtml"/>
+		<itemref idref="prologue.xhtml"/>
 		<itemref idref="act-1.xhtml"/>
 		<itemref idref="act-2.xhtml"/>
 		<itemref idref="act-3.xhtml"/>
-		<itemref idref="prologue.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
