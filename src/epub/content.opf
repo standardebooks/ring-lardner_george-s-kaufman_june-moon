@@ -29,18 +29,23 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">June Moon</dc:title>
 		<meta property="file-as" refines="#title">June Moon</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Drama</dc:subject>
+		<dc:subject id="subject-2">Lyricists</dc:subject>
+		<dc:subject id="subject-3">Composers</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">SUBJECT_1_LCSH_ID</meta>
+		<meta property="term" refines="#subject-1">sh85039316</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">SUBJECT_2_LCSH_ID</meta>
+		<meta property="term" refines="#subject-2">sh85079181</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85029386</meta>
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Drama</meta>
 		<meta property="se:subject">Satire</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A lyricist moves to New York City to aspiring to make it big on Tin Pan Alley.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			<p>Fred Stevens, an aspiring lyricist, has quit his job at General Electric and moved from Schenectady to New York City to collaborate with Paul Sears, a one-hit-wonder composer chasing his next big break. Life in New York City proves to be quite a culture shock for Fred as he unwittingly squanders his savings in the New York social scene, egged on by Paul’s wife and sister-in-law, only to ultimately find himself forced to choose between two women.</p>
+			<p>Based on <a href="https://standardebooks.org/ebooks/ring-lardner">Ring Lardner’s</a> 1921 short story “<a href="https://standardebooks.org/ebooks/ring-lardner/short-fiction">Some Like Them Cold</a>,” <i>June Moon</i> satirizes Tin Pan Alley music publishers of the early 20th century and the composers and lyricists employed by them. The play officially opened at the Broadhurst Theatre in New York City on October 9, 1929 and has been adapted numerous times for film, radio, and television.</p>
+			<p>While <i>June Moon</i> is unequivocally intended for performance on stage, the script shares stylistic similarities to Lardner’s “nonsense plays,” including the use of dialect-laden spellings of character dialogue and stage directions that, at times, editorialize the onstage action in ways that offer a reader of the script some color that may not be seen in a live performance.</p>
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://archive.org/details/junemoon0000ring</dc:source>
