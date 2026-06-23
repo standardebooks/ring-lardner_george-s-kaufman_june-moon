@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/ring-lardner_george-s-kaufman/june-moon</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-06-23T20:09:47Z</dc:date>
+		<meta property="dcterms:modified">2026-06-23T20:09:47Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -44,13 +44,13 @@
 		<dc:description id="description">A lyricist moves to New York City aspiring to make it big on Tin Pan Alley.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Fred Stevens, an aspiring lyricist, has quit his job at General Electric and moved from Schenectady to New York City to collaborate with Paul Sears, a one-hit-wonder composer chasing his next big break. Life in New York City proves to be quite a culture shock for Fred as he unwittingly squanders his savings in the New York social scene, egged on by Paul’s wife and sister-in-law, only to ultimately find himself forced to choose between two women.&lt;/p&gt;
-			&lt;p&gt;Based on &lt;a href="https://standardebooks.org/ebooks/ring-lardner"&gt;Ring Lardner’s&lt;/a&gt; 1921 short story “&lt;a href="https://standardebooks.org/ebooks/ring-lardner/short-fiction"&gt;Some Like Them Cold&lt;/a&gt;,” &lt;i&gt;June Moon&lt;/i&gt; satirizes Tin Pan Alley music publishers of the early 20th century and the composers and lyricists employed by them. The play officially opened at the Broadhurst Theatre in New York City on October 9, 1929 and has been adapted numerous times for film, radio, and television.&lt;/p&gt;
+			&lt;p&gt;Based on &lt;a href="https://standardebooks.org/ebooks/ring-lardner"&gt;Ring Lardner’s&lt;/a&gt; 1921 short story “&lt;a href="https://standardebooks.org/ebooks/ring-lardner/short-fiction"&gt;Some Like Them Cold&lt;/a&gt;,” &lt;i&gt;June Moon&lt;/i&gt; satirizes Tin Pan Alley music publishers of the early 20th century and the composers and lyricists in their employ. The play officially opened at the Broadhurst Theatre in New York City on October 9, 1929 and has been adapted numerous times for film, radio, and television.&lt;/p&gt;
 			&lt;p&gt;While &lt;i&gt;June Moon&lt;/i&gt; is unequivocally intended for performance on stage, the script shares stylistic similarities to Lardner’s “nonsense plays,” including the use of dialect-laden spellings of character dialogue and stage directions that, at times, editorialize the onstage action in ways that offer a reader of the script some color that may not be seen in a live performance.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://archive.org/details/junemoon0000ring</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">23477</meta>
+		<meta property="se:reading-ease.flesch">88.23</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/June_Moon</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ring-lardner_george-s-kaufman_june-moon</meta>
 		<dc:creator id="author-1">Ring Lardner</dc:creator>
@@ -80,6 +80,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.robinwhittleton.com/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
