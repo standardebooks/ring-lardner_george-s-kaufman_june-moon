@@ -53,7 +53,7 @@
 		<meta property="schema:wordCount">23477</meta>
 		<meta property="schema:educationalLevel">88.23</meta>
 		<link href="https://en.wikipedia.org/wiki/June_Moon" rel="schema:sameAs"/>
-		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/ring-lardner_george-s-kaufman_june-moon" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author-1">Ring Lardner</dc:creator>
