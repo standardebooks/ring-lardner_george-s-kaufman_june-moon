@@ -42,7 +42,7 @@
 		<meta property="schema:genre">Comedy</meta>
 		<meta property="schema:genre">Drama</meta>
 		<meta property="schema:genre">Satire</meta>
-		<dc:abstract>A lyricist moves to New York City aspiring to make it big on Tin Pan Alley.</dc:abstract>
+		<meta property="schema:abstract">A lyricist moves to New York City aspiring to make it big on Tin Pan Alley.</meta>
 		<dc:description>
 			&lt;p&gt;Fred Stevens, an aspiring lyricist, has quit his job at General Electric and moved from Schenectady to New York City to collaborate with Paul Sears, a one-hit-wonder composer chasing his next big break. Life in New York City proves to be quite a culture shock for Fred as he unwittingly squanders his savings in the New York social scene, egged on by Paul’s wife and sister-in-law, only to ultimately find himself forced to choose between two women.&lt;/p&gt;
 			&lt;p&gt;Based on &lt;a href="https://standardebooks.org/ebooks/ring-lardner"&gt;Ring Lardner’s&lt;/a&gt; 1921 short story “&lt;a href="https://standardebooks.org/ebooks/ring-lardner/short-fiction"&gt;Some Like Them Cold&lt;/a&gt;,” &lt;i&gt;June Moon&lt;/i&gt; satirizes Tin Pan Alley music publishers of the early 20th century and the composers and lyricists in their employ. The play officially opened at the Broadhurst Theatre in New York City on October 9, 1929 and has been adapted numerous times for film, radio, and television.&lt;/p&gt;
