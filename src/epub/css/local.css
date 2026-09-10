@@ -139,7 +139,9 @@ tr.together td + td{
 /* End Together */
 
 /* Poetry, verse, songs */
-[epub|type~="z3998:song"] p{
+td[epub|type~="z3998:song"] p,
+div[epub|type~="z3998:song"]{
+	margin: 1em 2.5em;
 	text-align: initial;
 	text-indent: 0;
 }
